@@ -61,7 +61,7 @@ Autor
 
 Nombre: Melonie Suarez
 
-Materia: [Escribe el nombre de la materia]
+Materia: Fundamentos IA
 
 Actividad: 2
 
