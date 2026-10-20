@@ -1,0 +1,4 @@
+Requisitos
+•	Python 3.10
+•	pip para instalar las bibliotecas.
+•	Conexión a internet para instalar las dependencias la primera vez.
